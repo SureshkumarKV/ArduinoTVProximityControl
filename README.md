@@ -6,6 +6,8 @@ Last week, I had this wake up call and I decided to solve this problem the engin
 
 Source code (Called sketch in Arduino linguistics) is here  [TVControl2.ino](https://github.com/SureshkumarKV/ArduinoTVProximityControl/blob/master/TVControl2.ino)
 
+NOTE: The IR code works on my Samsung TV. You may have to use a different one.
+
 Here is the schematic.
 https://www.circuito.io/app?components=512,9349,11021,931983
 
