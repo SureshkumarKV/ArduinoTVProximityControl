@@ -7,3 +7,5 @@ Last week, I had this wake up call and I decided to solve this problem the engin
 Here is the schematic.
 https://www.circuito.io/app?components=512,9349,11021,931983
 
+![Screenshot of ColorPickerView](https://github.com/SureshkumarKV/ArduinoTVProximityControl/blob/master/schematic.png)
+
